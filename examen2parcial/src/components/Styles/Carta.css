@@ -1,0 +1,15 @@
+.profile
+{
+    display: flex;
+    border-radius: 20px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.60) 30%, rgba(0, 85, 255, 0.37) 100%);
+
+}
+p
+{
+    color: var(--gray-white, #FFF);
+    font-family: Roboto;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700; 
+}
